@@ -1,10 +1,10 @@
 # 3. Lattes - importação de dados e relatórios
 
 ## Organização
-# Gerentes: Leonardo Coradeli e Felipe Wunder
-# SQA's: Diego Pereira e Lucas Cronemberger
-# Analistas/Projetistas: Leonardo Cenedes e Lucas ikeda
-# Desenvolvedores: Gustavo Santos e Marco Vinicius
+### Gerentes: Leonardo Coradeli e Felipe Wunder
+### SQA's: Diego Pereira e Lucas Cronemberger
+### Analistas/Projetistas: Leonardo Cenedes e Lucas ikeda
+### Desenvolvedores: Gustavo Santos e Marco Vinicius
 
 ## Descrição
 A ver com os An&Proj
